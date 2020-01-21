@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\bin\Debug\For_Dongusu.exe.config
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\bin\Debug\For_Dongusu.exe
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\bin\Debug\For_Dongusu.pdb
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.Form1.resources
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.exe
+C:\Users\Asus-PC\source\repos\For_Dongusu\For_Dongusu\obj\Debug\For_Dongusu.pdb

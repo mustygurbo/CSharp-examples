@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\bin\Debug\Form_Tasarimi.exe.config
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\bin\Debug\Form_Tasarimi.exe
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\bin\Debug\Form_Tasarimi.pdb
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.Form1.resources
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.exe
+C:\Users\Asus-PC\source\repos\Form_Tasarimi\Form_Tasarimi\obj\Debug\Form_Tasarimi.pdb

@@ -1,0 +1,12 @@
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\bin\Debug\Formul_Kitabi.exe.config
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\bin\Debug\Formul_Kitabi.exe
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\bin\Debug\Formul_Kitabi.pdb
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.Form1.resources
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.exe
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.pdb
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.Form2.resources
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.Form3.resources
+C:\Users\Asus-PC\source\repos\Formul_Kitabi\Formul_Kitabi\obj\Debug\Formul_Kitabi.Form4.resources
