@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\bin\Debug\Hayvan_Yarisi.exe.config
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\bin\Debug\Hayvan_Yarisi.exe
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\bin\Debug\Hayvan_Yarisi.pdb
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.Form1.resources
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.exe
+C:\Users\Asus-PC\source\repos\Hayvan_Yarisi\Hayvan_Yarisi\obj\Debug\Hayvan_Yarisi.pdb

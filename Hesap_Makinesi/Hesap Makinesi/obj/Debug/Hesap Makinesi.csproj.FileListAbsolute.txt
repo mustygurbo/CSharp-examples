@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Asus-PC\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb

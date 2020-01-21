@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\bin\Debug\Menu_Ders.exe.config
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\bin\Debug\Menu_Ders.exe
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\bin\Debug\Menu_Ders.pdb
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.Form1.resources
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.exe
+C:\Users\Asus-PC\source\repos\Menu_Ders\Menu_Ders\obj\Debug\Menu_Ders.pdb
