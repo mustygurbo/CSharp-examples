@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\bin\Debug\Bilet_Uygulamasi.exe.config
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\bin\Debug\Bilet_Uygulamasi.exe
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\bin\Debug\Bilet_Uygulamasi.pdb
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.Form1.resources
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.exe
+C:\Users\Asus-PC\source\repos\Bilet_Uygulamasi\Bilet_Uygulamasi\obj\Debug\Bilet_Uygulamasi.pdb

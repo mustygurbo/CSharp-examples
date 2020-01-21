@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\bin\Debug\Emlak_Kayit.exe.config
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\bin\Debug\Emlak_Kayit.exe
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\bin\Debug\Emlak_Kayit.pdb
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.Form1.resources
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.exe
+C:\Users\Asus-PC\source\repos\Emlak_Kayit\Emlak_Kayit\obj\Debug\Emlak_Kayit.pdb

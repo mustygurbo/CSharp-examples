@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\bin\Debug\Dosya_Duzenleme.exe.config
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\bin\Debug\Dosya_Duzenleme.exe
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\bin\Debug\Dosya_Duzenleme.pdb
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.Form1.resources
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.exe
+C:\Users\Asus-PC\source\repos\Dosya_Duzenleme\Dosya_Duzenleme\obj\Debug\Dosya_Duzenleme.pdb
