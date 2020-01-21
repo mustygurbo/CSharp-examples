@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\bin\Debug\TabControl_Ders.exe.config
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\bin\Debug\TabControl_Ders.exe
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\bin\Debug\TabControl_Ders.pdb
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.Form1.resources
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.exe
+C:\Users\Asus-PC\source\repos\TabControl_Ders\TabControl_Ders\obj\Debug\TabControl_Ders.pdb

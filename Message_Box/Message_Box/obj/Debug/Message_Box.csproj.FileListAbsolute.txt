@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\bin\Debug\Message_Box.exe.config
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\bin\Debug\Message_Box.exe
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\bin\Debug\Message_Box.pdb
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.Form1.resources
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.exe
+C:\Users\Asus-PC\source\repos\Message_Box\Message_Box\obj\Debug\Message_Box.pdb
