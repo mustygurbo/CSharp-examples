@@ -1,0 +1,9 @@
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\bin\Debug\Animasyon.exe.config
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\bin\Debug\Animasyon.exe
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\bin\Debug\Animasyon.pdb
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.csprojAssemblyReference.cache
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.Form1.resources
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.Properties.Resources.resources
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.csproj.GenerateResource.cache
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.exe
+C:\Users\Asus-PC\source\repos\Animasyon\Animasyon\obj\Debug\Animasyon.pdb
